@@ -1,0 +1,18 @@
+.imgStyle{
+    height: 200px;
+    width: 200px;
+}
+
+.containerCancha{
+    display: flex;
+}
+
+.cardElements{
+    display: flex;
+    flex-direction: column;
+}
+
+.horariosElements{
+    display: block;
+    
+}
