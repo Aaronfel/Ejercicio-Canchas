@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Ejercicio-Canchas/static/css/main.0bb28603.css",
-    "main.js": "/Ejercicio-Canchas/static/js/main.b95339e1.js",
+    "main.js": "/Ejercicio-Canchas/static/js/main.8c47fc29.js",
     "static/js/787.4433830b.chunk.js": "/Ejercicio-Canchas/static/js/787.4433830b.chunk.js",
     "static/media/imagenMapa.jpg": "/Ejercicio-Canchas/static/media/imagenMapa.79c59994b07aedd1f728.jpg",
     "index.html": "/Ejercicio-Canchas/index.html",
     "main.0bb28603.css.map": "/Ejercicio-Canchas/static/css/main.0bb28603.css.map",
-    "main.b95339e1.js.map": "/Ejercicio-Canchas/static/js/main.b95339e1.js.map",
+    "main.8c47fc29.js.map": "/Ejercicio-Canchas/static/js/main.8c47fc29.js.map",
     "787.4433830b.chunk.js.map": "/Ejercicio-Canchas/static/js/787.4433830b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0bb28603.css",
-    "static/js/main.b95339e1.js"
+    "static/js/main.8c47fc29.js"
   ]
 }
